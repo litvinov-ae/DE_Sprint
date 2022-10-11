@@ -1,0 +1,3084 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 2,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 3,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 4,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 5,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 6,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 7,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 8,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 9,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 10,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 11,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 12,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 13,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 14,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 15,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 16,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 17,
+			"title": "Low-code developer (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 18,
+			"title": "Backend Develover/ Программист-разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 200 000 руб. на руки",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 19,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 20,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 21,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 22,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 23,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 24,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 25,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 26,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 27,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 28,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 29,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 30,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 31,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 32,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 33,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "no data",
+			"salary": "no data",
+			"region": "no data"
+		},
+		{
+			"id": 34,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 35,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 36,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 37,
+			"title": "Low-code developer (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 38,
+			"title": "Backend Develover/ Программист-разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 200 000 руб. на руки",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 39,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 40,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 41,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 42,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 43,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 44,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 45,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 46,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 47,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 48,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 49,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 50,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 51,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 52,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 53,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 54,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 55,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 56,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 57,
+			"title": "Low-code developer (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 58,
+			"title": "Backend Develover/ Программист-разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 200 000 руб. на руки",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 59,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 60,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 61,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 62,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 63,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 64,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 65,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 66,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 67,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 68,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 69,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 70,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 71,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 72,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 73,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 74,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 75,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 76,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 77,
+			"title": "Low-code developer (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 78,
+			"title": "Backend Develover/ Программист-разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 200 000 руб. на руки",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 79,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 80,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 81,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 82,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 83,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 84,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 85,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 86,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 87,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 88,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 89,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 90,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 91,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 92,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 93,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 94,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 95,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 96,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 97,
+			"title": "Low-code developer (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 98,
+			"title": "Backend Develover/ Программист-разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 200 000 руб. на руки",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 99,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 100,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 101,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 102,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 103,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 104,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 105,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 106,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 107,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 108,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 109,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 110,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 111,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 112,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 113,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 114,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 115,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 116,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 117,
+			"title": "Low-code developer (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 118,
+			"title": "Backend Develover/ Программист-разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 200 000 руб. на руки",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 119,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 120,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 121,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 122,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 123,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 124,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 125,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 126,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 127,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 128,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 129,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 130,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 131,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 132,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 133,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 134,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 135,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 136,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 137,
+			"title": "Low-code developer (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 138,
+			"title": "Backend Develover/ Программист-разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 200 000 руб. на руки",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 139,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 140,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 141,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 142,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 143,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 144,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 145,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 146,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 147,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 148,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 149,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 150,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 151,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 152,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 153,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 154,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 155,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 156,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 157,
+			"title": "Low-code developer (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 158,
+			"title": "Backend Develover/ Программист-разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 200 000 руб. на руки",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 159,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 160,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 161,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 162,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 163,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 164,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 165,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 166,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 167,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 168,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 169,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 170,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 171,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 172,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 173,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 174,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 175,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 176,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 177,
+			"title": "Low-code developer (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 178,
+			"title": "Backend Develover/ Программист-разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 200 000 руб. на руки",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 179,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 180,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 181,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 182,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 183,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 184,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 185,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 186,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 187,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 188,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 189,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 190,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 191,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 192,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 193,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 194,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 195,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 196,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 197,
+			"title": "Low-code developer (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 198,
+			"title": "Backend Develover/ Программист-разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 200 000 руб. на руки",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 199,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 200,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 201,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 202,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 203,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 204,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 205,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 206,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 207,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 208,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 209,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 210,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 211,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 212,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 213,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 214,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 215,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 216,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 217,
+			"title": "Low-code developer (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 218,
+			"title": "Backend Develover/ Программист-разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 200 000 руб. на руки",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 219,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 220,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 221,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 222,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 223,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 224,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 225,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 226,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 227,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 228,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 229,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 230,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 231,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 232,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 233,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 234,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 235,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 236,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 237,
+			"title": "Low-code developer (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 238,
+			"title": "Backend Develover/ Программист-разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 200 000 руб. на руки",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 239,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 240,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 241,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 242,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 243,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 244,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 245,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 246,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 247,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 248,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 249,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 250,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 251,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 252,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 253,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 254,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 255,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 256,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 257,
+			"title": "Low-code developer (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 258,
+			"title": "Backend Develover/ Программист-разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 200 000 руб. на руки",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 259,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 260,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 261,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 262,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 263,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 264,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 265,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 266,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 267,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 268,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 269,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 270,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 271,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 272,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 273,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 274,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 275,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 276,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 277,
+			"title": "Low-code developer (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 278,
+			"title": "Разработчик Python (backend)",
+			"work experience": "3–6 лет",
+			"salary": "от 200 000 до 350 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 279,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 280,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 281,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 282,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 283,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 284,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 285,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 286,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 287,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 288,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 289,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 290,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 291,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 292,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 293,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 294,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 295,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 296,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 297,
+			"title": "Low-code developer (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 298,
+			"title": "Разработчик Python (backend)",
+			"work experience": "3–6 лет",
+			"salary": "от 200 000 до 350 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 299,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 300,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 301,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 302,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 303,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 304,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 305,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 306,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 307,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 308,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 309,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 310,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 311,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 312,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 313,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 314,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 315,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 316,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 317,
+			"title": "Low-code developer (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 318,
+			"title": "Разработчик Python (backend)",
+			"work experience": "3–6 лет",
+			"salary": "от 200 000 до 350 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 319,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 320,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 321,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 322,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 323,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 324,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 325,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 326,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 327,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 328,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 329,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 330,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 331,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 332,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 333,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 334,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 335,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 336,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 337,
+			"title": "Low-code developer (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 338,
+			"title": "Разработчик Python (backend)",
+			"work experience": "3–6 лет",
+			"salary": "от 200 000 до 350 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 339,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 340,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 341,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 342,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 343,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 344,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 345,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 346,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 347,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 348,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 349,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 350,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 351,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 352,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 353,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 354,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 355,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 356,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 357,
+			"title": "Low-code developer (Python) внедрение кросплатформенных приложений на базе платформы",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 358,
+			"title": "Разработчик Python (backend)",
+			"work experience": "3–6 лет",
+			"salary": "от 200 000 до 350 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 359,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 360,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 361,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 362,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 363,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 364,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 365,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 366,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 367,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 368,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 369,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 370,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 371,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 372,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 373,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 374,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 375,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 376,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 377,
+			"title": "Low-code developer (Python) внедрение кросплатформенных приложений на базе платформы",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 378,
+			"title": "Разработчик Python (backend)",
+			"work experience": "3–6 лет",
+			"salary": "от 200 000 до 350 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 379,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 380,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 381,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 382,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 383,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 384,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 385,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 386,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 387,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 388,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 389,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 390,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 391,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 392,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 393,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 394,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 395,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 396,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 397,
+			"title": "Low-code developer (Python) внедрение кросплатформенных приложений на базе платформы",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 398,
+			"title": "Разработчик Python (backend)",
+			"work experience": "3–6 лет",
+			"salary": "от 200 000 до 350 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 399,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 400,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 401,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 402,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 403,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 404,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 405,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 406,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 407,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 408,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 409,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 410,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 411,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 412,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 413,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 414,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 415,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 416,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 417,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 418,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 419,
+			"title": "Python-разработчик в «Госуслуги.Культуру»",
+			"work experience": "3–6 лет",
+			"salary": "от 180 000 до 300 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 420,
+			"title": "Backend Develover/ Программист-разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 200 000 руб. на руки",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 421,
+			"title": "Разработчик C++ (релокация в Dubai)",
+			"work experience": "3–6 лет",
+			"salary": "от 6 000 до 8 000 USD на руки",
+			"region": "Москва, Киевская и еще 2 "
+		},
+		{
+			"id": 422,
+			"title": "Разработчик сетевого ПО / BackEnd",
+			"work experience": "3–6 лет",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Санкт-Петербург, Горьковская"
+		},
+		{
+			"id": 423,
+			"title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+			"work experience": "3–6 лет",
+			"salary": "от 600 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 424,
+			"title": "Разработчик C# / Python",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 500 000 руб. на руки",
+			"region": "Москва, Павелецкая"
+		},
+		{
+			"id": 425,
+			"title": "Junior Программист/Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 426,
+			"title": "Разработчик (Backend developer / Python)",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Тюмень"
+		},
+		{
+			"id": 427,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 до 150 000 руб. до вычета налогов",
+			"region": "Екатеринбург"
+		},
+		{
+			"id": 428,
+			"title": "Python developer (Senior)",
+			"work experience": "3–6 лет",
+			"salary": "от 360 000 до 480 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 429,
+			"title": "Программист-разработчик (Python)",
+			"work experience": "1–3 года",
+			"salary": "от 60 000 до 70 000 руб. на руки",
+			"region": "Красноярск"
+		},
+		{
+			"id": 430,
+			"title": "Python разработчик",
+			"work experience": "3–6 лет",
+			"salary": "от 230 000 руб. на руки",
+			"region": "Москва, Войковская"
+		},
+		{
+			"id": 431,
+			"title": "Python developer (Middle)",
+			"work experience": "3–6 лет",
+			"salary": "от 300 000 до 360 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 432,
+			"title": "Разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 160 000 до 200 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 433,
+			"title": "Python-разработчик в R&D отдел",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 150 000 руб. на руки",
+			"region": "Санкт-Петербург"
+		},
+		{
+			"id": 434,
+			"title": "Python разработчик",
+			"work experience": "1–3 года",
+			"salary": "от 150 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 435,
+			"title": "Backend Python Developer",
+			"work experience": "3–6 лет",
+			"salary": "от 210 000 до 360 000 руб. до вычета налогов",
+			"region": "Москва"
+		},
+		{
+			"id": 436,
+			"title": "Программист Python, удаленно",
+			"work experience": "1–3 года",
+			"salary": "от 170 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 437,
+			"title": "Middle+ Python developer Web3",
+			"work experience": "1–3 года",
+			"salary": "от 250 000 до 300 000 руб. на руки",
+			"region": "Москва"
+		},
+		{
+			"id": 438,
+			"title": "Junior Python developer (back-end)",
+			"work experience": "1–3 года",
+			"salary": "от 50 000 руб. на руки",
+			"region": "Новосибирск"
+		},
+		{
+			"id": 439,
+			"title": "Python-разработчик в «Госуслуги.Культуру»",
+			"work experience": "3–6 лет",
+			"salary": "от 180 000 до 300 000 руб. до вычета налогов",
+			"region": "Москва, Пушкинская и еще 2 "
+		},
+		{
+			"id": 440,
+			"title": "Backend Develover/ Программист-разработчик Python",
+			"work experience": "1–3 года",
+			"salary": "от 100 000 до 200 000 руб. на руки",
+			"region": "Екатеринбург"
+		}
+	]
+}
