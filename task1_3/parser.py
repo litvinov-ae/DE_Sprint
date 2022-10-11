@@ -10,9 +10,8 @@ data = {
     "data":[]
 }
 id = 0
-for page in range(1,18):
-    url ="https://hh.ru/search/vacancy?area=113&search_field=name&search_field=company_name&search_field=description&text=Python-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page={page}&hhtmFrom=vacancy_search_list"
-    # url ="https://hh.ru/search/vacancy?area=113&search_field=name&search_field=company_name&search_field=description&only_with_salary=true&text=python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&utm_medium=widgetvacancy&utm_campaign=hh.ru_logo&utm_source=dev.hh.ru&utm_term=%2Fadmin%2Fwidgets%2Fsearch&customDomain=1&page={page}&hhtmFrom=vacancy_search_list"
+for page in range(1,23):
+    url ="https://hh.ru/search/vacancy?area=113&search_field=name&search_field=company_name&search_field=description&only_with_salary=true&text=python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&utm_medium=widgetvacancy&utm_campaign=hh.ru_logo&utm_source=dev.hh.ru&utm_term=%2Fadmin%2Fwidgets%2Fsearch&customDomain=1&page={page}&hhtmFrom=vacancy_search_list"
     resp = req.get(url, headers={'user-agent': 'Mozilla/5.0'})
     soup = BeautifulSoup(resp.text, "lxml")
     tags = soup.find_all(attrs={"data-qa":"serp-item__title"})
