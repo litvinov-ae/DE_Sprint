@@ -1,9 +1,11 @@
 x = input()
-text = x.lower().replace(' ','')
+
+def is_palindrome(text):
+    text = x.lower().replace(' ','')
+    if text == text[::-1]:
+        return True
+    else:
+        return False
 
 print("Ввод: x = " + x)
-
-if text == text[::-1]:
-    print("Вывод: true")
-else:
-    print("Вывод: false")
+print("Вывод: " + is_palindrome(x))
